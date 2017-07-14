@@ -68,7 +68,7 @@ a:active, a:visited, a:focus {
 	color: #fff;
 	border-color: #fff;
 }
-/*Секция для портфолио*/
+/*Секция с портфолио*/
 .portfolio {
 	padding: 10rem 0px;
 	text-align: center;
@@ -95,7 +95,7 @@ a:active, a:visited, a:focus {
 	text-decoration: none;
 	border-bottom: 1px dotted #333;
 }
-/*Подвал*/
+/*Секция - подвал*/
 .footer {
 	background-color: #646464;
 	color: #fff;
@@ -189,3 +189,8 @@ a:active, a:visited, a:focus {
 		display: inline-block;
 	}
 }
+
+
+
+
+
